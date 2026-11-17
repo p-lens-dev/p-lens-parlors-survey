@@ -21,7 +21,7 @@ whoever reads it to choose what to trust. It is one report, published apart: the
 takes, in the parlor list's `tiers.jsonl`; and what the prizes came to at the
 broker, and its name, which is not the parlor's, in a
 repository of its own,
-[p-lens-brokers](https://github.com/p-lens/p-lens-brokers) — not as a rate,
+[p-lens-brokers](https://github.com/p-lens-dev/p-lens-brokers) — not as a rate,
 but as a thing a player saw happen on a day. The server divides the report in
 two, and no yen is filed in the parlor list's issue. What was seen at a listed
 parlor is added to p-lens-brokers' `data/observations.jsonl` as the report is
@@ -144,7 +144,7 @@ Cloudflare's settings (Workers > connect this repository)
 Cloudflare comes with may be too old to read `bun.lock`, and the build stops.
 
 The parlor list is published at parlors.p-lens.jp by
-[p-lens-parlors](https://github.com/p-lens/p-lens-parlors), and the page reads
+[p-lens-parlors](https://github.com/p-lens-dev/p-lens-parlors), and the page reads
 it each time it is opened. When the list changes, nothing here is deployed
 again.
 

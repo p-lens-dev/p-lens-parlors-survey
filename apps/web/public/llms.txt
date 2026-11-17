@@ -8,7 +8,7 @@
 
 - [parlors.jsonl](https://parlors.p-lens.jp/parlors.jsonl): 座標のわかっている店舗。1 行に 1 店舗の JSON で、`id`、`name`（店名）、`reading`（ひらがなの読み）、`prefecture`（都道府県）、`address`（都道府県より後ろの住所）、`lat`・`lon`（WGS84）を持ちます
 - [unplaced.jsonl](https://parlors.p-lens.jp/unplaced.jsonl): 座標がまだわかっていない店舗。`id`、`name`、`reading`、`prefecture` と、わかる場合は `address` を持ちます
-- [店舗一覧のリポジトリ](https://github.com/p-lens/p-lens-parlors): 項目の定義、出典、編集の方針
+- [店舗一覧のリポジトリ](https://github.com/p-lens-dev/p-lens-parlors): 項目の定義、出典、編集の方針
 
 ## ライセンスと出典
 
@@ -30,4 +30,4 @@
 
 ## ソースコード
 
-- [p-lens-parlors-survey](https://github.com/p-lens/p-lens-parlors-survey): このサイト
+- [p-lens-parlors-survey](https://github.com/p-lens-dev/p-lens-parlors-survey): このサイト

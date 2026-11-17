@@ -47,7 +47,7 @@ P-Lens 店舗検索（survey.p-lens.jp）は、パチンコ・パチスロ店舗
 
 ## 報告の訂正と削除
 
-公開された報告の訂正や削除を望むときは、[店舗一覧のリポジトリ](https://github.com/p-lens/p-lens-parlors)の issue でお知らせください。
+公開された報告の訂正や削除を望むときは、[店舗一覧のリポジトリ](https://github.com/p-lens-dev/p-lens-parlors)の issue でお知らせください。
 
 ## 改定
 
